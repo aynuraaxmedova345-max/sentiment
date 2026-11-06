@@ -1,0 +1,6 @@
+__pycache__/
+data/
+translated_en.csv
+train_aug.csv
+tarjima_QC.xlsx
+*.xlsx
